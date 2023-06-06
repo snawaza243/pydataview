@@ -8,8 +8,9 @@ Thank you for choosing Data Visual! This is a Python desktop application that pr
 
 ## Overview
 <p align="center">
-  <img src="https://github.com/snawaza243/pydataview/blob/02f7f4bc25fc2092802bc2f25810938442d4285d/img/Data%20Visual.png" width="100%" height="auto" />
+  <img src="https://github.com/snawaza243/pydataview/blob/02f7f4bc25fc2092802bc2f25810938442d4285d/img/Data%20Visual.png" width="60%" height="auto" />
 </p>
+
 ## Features
 
 ### Measuring Central Tendency and Dispersion
