@@ -1,7 +1,3 @@
-# pydataview
-
-
-
 # Data Visual
 
 Thank you for choosing Data Visual! This is a Python desktop application that provides various features for statistical analysis of data, including measuring central tendency and dispersion, measuring distribution, and performing correlation analysis. The application also generates graphs to help visualize the data.
