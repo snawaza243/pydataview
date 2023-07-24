@@ -53,6 +53,18 @@ Data Visual is built using the Python programming language, with various librari
 - **Pandas** for data manipulation
 - **Matplotlib** for graphing
 - **Tkinter** for creating the graphical user interface
+- os: Library for interacting with the operating system.
+- tkinter: Library for creating graphical user interfaces (GUI) in Python.
+- pyttsx3: Library for text-to-speech conversion.
+- hyperlink: Library for working with hyperlinks.
+- webbrowser: Library for opening URLs in a web browser.
+- functools: Library for working with higher-order functions and callable objects.
+- PIL (Python Imaging Library): Library for working with images.
+- statistics: Library for performing statistical calculations.
+- seaborn: Library for statistical data visualization based on matplotlib.
+- tktooltip: Library for creating tooltips in tkinter applications
+- scipy.stats: Sub-module of SciPy library for statistical functions.
+- builtins: Built-in Python module providing a set of built-in functions and variables.
 
 ## Contact Us
 
